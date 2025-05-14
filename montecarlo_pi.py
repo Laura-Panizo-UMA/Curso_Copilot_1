@@ -1,3 +1,4 @@
+#!/local/bin/python3
 import numpy as np
 
 def estimar_pi(num_puntos):
